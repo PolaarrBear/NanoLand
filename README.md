@@ -6,10 +6,12 @@ description: Сервера Minecraft.
 
 VK: [https://vk.com/nanoland](https://vk.com/nanoland)\
 Discord: [https://discord.gg/q5uKSvhPpP](https://discord.gg/q5uKSvhPpP)\
-TG: [https://t.me/+7mg-\_EbbWEIzN2Y6](https://t.me/+7mg-\_EbbWEIzN2Y6)\
+TG: [https://t.me/+7mg-\_EbbWEIzN2Y6](https://t.me/+7mg-_EbbWEIzN2Y6)\
 \
-Активные сервера:\
-NanoLand SMP VMS\
-Ссылка на википедию [NanoLand WIKI](https://app.gitbook.com/o/APt8KcNynn7lqhHzfaer/s/cSaaGA448nHKkI33ivDK/ "mention")\
+\
+NanoLand SMP VMS WIKI: [NanoLand WIKI](https://app.gitbook.com/o/APt8KcNynn7lqhHzfaer/s/cSaaGA448nHKkI33ivDK/ "mention")\
+\
 
 
+Policy:\
+[https://nanoland.gitbook.io/nanoland-policy/ ](https://nanoland.gitbook.io/nanoland-policy/)
