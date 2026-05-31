@@ -8,7 +8,7 @@ description: >-
 
 
 
-1- Заходите в Discord NL worlds [https://discord.gg/q5uKSvhPpP](https://discord.gg/q5uKSvhPpP)\
+1- Заходите в Discord NL worlds [https://discord.gg/-](https://discord.gg/q5uKSvhPpP)\
 2- Авторизуйтесь и прочтите чат цены. Чтобы ознакомится с соглашением, проходками и их видами.\
 3- Оформите проходку в чате поддержки сверху в дискорде.\
 4- Скачайте версию Minecraft указанную в боте NanoLand в списке участников Discord NanoLand.\
@@ -16,4 +16,4 @@ description: >-
 (Сервер ванильный но моды по типу Plasmo Voice являются обязательными)\
 6- Зайдите в игру и добавьте сервер с IP который также указан в боте NanoLand в списке участников Discord NanoLand.\
 7- Заходите!, Наслаждайтесь игрой и не нарушайте правила сервера!\
-Готово!\
+Готово!<br>
